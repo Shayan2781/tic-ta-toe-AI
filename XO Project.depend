@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657222146 source:c:\users\user\desktop\desk\- c - codeblocks\quera\xo project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
